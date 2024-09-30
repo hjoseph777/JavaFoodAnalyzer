@@ -4,7 +4,7 @@
 Food Data Analyzer is a Java application designed to process and analyze food data, specifically calculating calories per serving based on fat grams, total calories, and servings.
 
 ## Project Structure
-          analyzerfood/
+        analyzerfood/
         README.md
         pom.xml
         src/
@@ -13,7 +13,10 @@ Food Data Analyzer is a Java application designed to process and analyze food da
                     com/
                         food/
                             FoodDataAnalyzerMain.java
+[FoodDataAnalyzerMain.java](https://github.com/hjoseph777/JavaFoodAnalyzer/blob/main/analyzerfood/src/main/java/com/food/FoodDataAnalyzerMain.java)
+
                             FoodDataProcessor.java
+[FoodDataProcessor.java](https://github.com/hjoseph777/JavaFoodAnalyzer/blob/main/analyzerfood/src/main/java/com/food/FoodDataProcessor.java)
                             
                 resources/
                     images/
@@ -28,6 +31,14 @@ Food Data Analyzer is a Java application designed to process and analyze food da
                         FoodDataProcessor.class
                         
             test-classes/
+
+## link
+
+FoodDataAnalyzerMain.java
+[FoodDataAnalyzerMain.java](https://github.com/hjoseph777/JavaFoodAnalyzer/blob/main/analyzerfood/src/main/java/com/food/FoodDataAnalyzerMain.java)
+FoodDataProcessor.java
+[FoodDataProcessor.java](https://github.com/hjoseph777/JavaFoodAnalyzer/blob/main/analyzerfood/src/main/java/com/food/FoodDataProcessor.java)
+
 
 ## Flowchart
 
