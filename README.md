@@ -31,7 +31,7 @@ Food Data Analyzer is a Java application designed to process and analyze food da
 
 ## Flowchart
 
-![Flowchart](src/main/resources/images/flowchartfood.png)
+![Flowchart](https://github.com/hjoseph777/JavaFoodAnalyzer/raw/main/analyzerfood/src/main/resources/images/flowchartfood.png)
 
 
  ## Display Result
